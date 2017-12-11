@@ -1,8 +1,8 @@
-
+package TestPackage;
 
 public class Test {
     public static void main(String[] args) {
-        String str = "%";
+        String str = "%STRING";
         char[] crList = str.toCharArray();
         StringBuilder sb = new StringBuilder();
 
