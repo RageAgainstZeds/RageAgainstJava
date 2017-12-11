@@ -2,8 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="668fbbfa-aa04-4032-8a19-f8be0989b9f6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/TestPackage/Test.java" afterPath="$PROJECT_DIR$/src/TestPackage/Test.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/.idea/artifacts/JavaEEProj_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/JavaEEProj.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/lib/javax.annotation.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/lib/javax.ejb.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/lib/javax.jms.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/lib/javax.persistence.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/lib/javax.resource.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/lib/javax.servlet.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/lib/javax.servlet.jsp.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/lib/javax.servlet.jsp.jstl.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/lib/javax.transaction.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/out/artifacts/JavaEEProj_war_exploded/WEB-INF/classes/ua/kiev/prog/CounterServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/out/artifacts/JavaEEProj_war_exploded/WEB-INF/classes/ua/kiev/prog/LoginServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/out/artifacts/JavaEEProj_war_exploded/WEB-INF/classes/ua/kiev/prog/OpenedServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/out/artifacts/JavaEEProj_war_exploded/WEB-INF/classes/ua/kiev/prog/SampleParamServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/out/artifacts/JavaEEProj_war_exploded/WEB-INF/classes/ua/kiev/prog/SampleServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/out/artifacts/JavaEEProj_war_exploded/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/out/artifacts/JavaEEProj_war_exploded/count.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/out/artifacts/JavaEEProj_war_exploded/date.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/out/artifacts/JavaEEProj_war_exploded/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/out/artifacts/JavaEEProj_war_exploded/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/out/artifacts/JavaEEProj_war_exploded/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/out/artifacts/JavaEEProj_war_exploded/test.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/out/artifacts/JavaEEProj_war_exploded/test_page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/out/production/JavaEEProj/ua/kiev/prog/CounterServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/out/production/JavaEEProj/ua/kiev/prog/LoginServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/out/production/JavaEEProj/ua/kiev/prog/OpenedServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/out/production/JavaEEProj/ua/kiev/prog/SampleParamServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/out/production/JavaEEProj/ua/kiev/prog/SampleServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/src/ua/kiev/prog/CounterServlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/src/ua/kiev/prog/LoginServlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/src/ua/kiev/prog/OpenedServlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/src/ua/kiev/prog/SampleParamServlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/src/ua/kiev/prog/SampleServlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/web/count.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/web/date.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/web/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/web/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/web/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/web/test.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaEEProj/web/test_page.html" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/src/TestPackage/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="188">
-              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -29,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/src/NumThree/Save.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/src/NumThree/UnderDogClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1140">
-              <caret line="57" column="20" lean-forward="true" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+              <caret line="57" column="20" lean-forward="false" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
               <folding>
                 <element signature="e#414#415#0" expanded="true" />
                 <element signature="e#443#444#0" expanded="true" />
@@ -67,8 +111,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/NumThree/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="70" lean-forward="true" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+            <state relative-caret-position="120">
+              <caret line="6" column="63" lean-forward="false" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -128,7 +172,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="768" />
     <option name="height" value="735" />
@@ -161,23 +205,6 @@
             <path>
               <item name="Annotations" type="b2602c69:ProjectViewProjectNode" />
               <item name="Annotation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Annotations" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Annotations" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="NumThree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Annotations" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="TestPackage" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -382,15 +409,15 @@
       <workItem from="1512649163687" duration="7834000" />
       <workItem from="1512670915518" duration="200000" />
       <workItem from="1512671199645" duration="91000" />
-      <workItem from="1512908704914" duration="14564000" />
+      <workItem from="1512908704914" duration="15186000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32313000" />
+    <option name="totallyTimeSpent" value="32935000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -406,7 +433,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23446327" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23373677" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -674,7 +701,7 @@
     <entry file="file://$PROJECT_DIR$/src/TestPackage/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -682,7 +709,7 @@
     <entry file="file://$PROJECT_DIR$/src/NumThree/Save.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -700,7 +727,7 @@
     <entry file="file://$PROJECT_DIR$/src/NumThree/UnderDogClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1140">
-          <caret line="57" column="20" lean-forward="true" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+          <caret line="57" column="20" lean-forward="false" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
           <folding>
             <element signature="e#414#415#0" expanded="true" />
             <element signature="e#443#444#0" expanded="true" />
@@ -734,8 +761,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/NumThree/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="70" lean-forward="true" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+        <state relative-caret-position="120">
+          <caret line="6" column="63" lean-forward="false" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
           <folding />
         </state>
       </provider>
