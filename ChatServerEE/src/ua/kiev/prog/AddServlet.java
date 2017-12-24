@@ -25,7 +25,7 @@ public class AddServlet extends HttpServlet {
 			resp.setStatus(HttpServletResponse.SC_BAD_REQUEST);
 	}
 
-	private byte[] requestBodyToArray(HttpServletRequest req) throws IOException {
+	public static byte[] requestBodyToArray(HttpServletRequest req) throws IOException {
         InputStream is = req.getInputStream();
         ByteArrayOutputStream bos = new ByteArrayOutputStream();
         byte[] buf = new byte[10240];

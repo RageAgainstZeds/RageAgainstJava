@@ -24,16 +24,24 @@ public class GetThread implements Runnable {
             while ( ! Thread.interrupted()) {
                 URL url = new URL(Utils.getURL() + "/get?from=" + n);
                 HttpURLConnection http = (HttpURLConnection) url.openConnection();
-
+                RunAutorization ra = new RunAutorization();
+                User user = new User(ra.getLogin());
                 InputStream is = http.getInputStream();
                 try {
                     byte[] buf = requestBodyToArray(is);
                     String strBuf = new String(buf, StandardCharsets.UTF_8);
-
                     JsonMessages list = gson.fromJson(strBuf, JsonMessages.class);
                     if (list != null) {
                         for (Message m : list.getList()) {
-                            System.out.println(m);
+                            if(m.getRoom() != 0 && user.getRooms().contains(m.getRoom())) {
+                                System.out.println(m);
+                                break;
+                            } else if (m.getTo() != null && m.getTo().equalsIgnoreCase(user.getName())) {
+                                System.out.print(m);
+                                break;
+                            } else {
+                                System.out.println();
+                            }
                             n++;
                         }
                     }
@@ -41,7 +49,7 @@ public class GetThread implements Runnable {
                     is.close();
                 }
 
-                Thread.sleep(500);
+                Thread.sleep(1000);
             }
         } catch (Exception ex) {
             ex.printStackTrace();
