@@ -37,10 +37,10 @@ public class GetThread implements Runnable {
                                 System.out.println(m);
                                 break;
                             } else if (m.getTo() != null && m.getTo().equalsIgnoreCase(user.getName())) {
-                                System.out.print(m);
+                                System.out.println(m);
                                 break;
                             } else {
-                                System.out.println();
+                                System.out.println(m);
                             }
                             n++;
                         }
@@ -49,7 +49,7 @@ public class GetThread implements Runnable {
                     is.close();
                 }
 
-                Thread.sleep(1000);
+                Thread.sleep(500);
             }
         } catch (Exception ex) {
             ex.printStackTrace();

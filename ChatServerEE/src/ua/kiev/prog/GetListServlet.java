@@ -10,10 +10,10 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 public class GetListServlet extends HttpServlet {
-	
+
 	private MessageList msgList = MessageList.getInstance();
 
-    @Override
+	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws IOException {
 		String fromStr = req.getParameter("from");
 		int from = 0;
@@ -21,13 +21,13 @@ public class GetListServlet extends HttpServlet {
 			from = Integer.parseInt(fromStr);
 		} catch (Exception ex) {
 			resp.setStatus(HttpServletResponse.SC_BAD_REQUEST);
-            return;
+			return;
 		}
-		
+
 		String json = msgList.toJSON(from);
 		if (json != null) {
 			OutputStream os = resp.getOutputStream();
-            byte[] buf = json.getBytes(StandardCharsets.UTF_8);
+			byte[] buf = json.getBytes(StandardCharsets.UTF_8);
 			os.write(buf);
 		}
 	}

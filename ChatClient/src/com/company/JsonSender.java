@@ -17,7 +17,7 @@ public class JsonSender {
         return gson.toJson(object);
     }
 
-    public static Autorization fromJSON(String s) {
+    public static Object fromJSON(String s) {
         Gson gson = new GsonBuilder().create();
             return gson.fromJson(s, Autorization.class);
     }

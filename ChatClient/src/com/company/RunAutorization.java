@@ -48,15 +48,16 @@ public class RunAutorization {
                 System.out.println("Do You have account? y/n");
                 String registerCheck = scanner.nextLine();
                 if (registerCheck.equals("n")) {
-                    System.out.println("Create new account");
-                    System.out.println("Enter new login: ");
-                    login = scanner.nextLine();
-                    System.out.println("Enter new password: ");
-                    passwd = scanner.nextLine();
                     Boolean reg = false;
                     while (reg == false) {
+                        System.out.println("Create new account");
+                        System.out.println("Enter new login: ");
+                        login = scanner.nextLine();
+                        System.out.println("Enter new password: ");
+                        passwd = scanner.nextLine();
+
                         Autorization register = new Autorization(login, passwd);
-                        int regData = autorization.send(Utils.getURL() + "/reg");
+                        int regData = register.send(Utils.getURL() + "/reg");
                         if (regData==4) {
                             System.out.println("Registration complete. Sign in using your login and password");
                             reg = true;
